@@ -183,7 +183,7 @@
     "rimraf": "^3.0.0",
     "selenium-webdriver": "^4.10.0",
     "sharp": "^0.32.1",
-    "snyk": "^1.1184.0",
+    "snyk": "^1.1185.0",
     "swagger-ui-express": "^4.6.3",
     "systeminformation": "^5.18.4",
     "table": "^6.8.1",
@@ -195,7 +195,7 @@
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.60.0",
-    "@typescript-eslint/parser": "^5.60.0",
+    "@typescript-eslint/parser": "^5.60.1",
     "cross-env": "^7.0.3",
     "env-cmd": "^10.0.0",
     "eslint": "^8.43.0",
